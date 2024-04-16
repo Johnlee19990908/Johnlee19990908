@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I’m currently pursuing my MS Engineering Management degree at Northeastern University<br>📚 I'm currently focus in Supply Chain and Business intelligence<br>🎯 Goals: Get a full-time job offer !!<br>🎲 Fun fact: I am a certified Scuba Diver</p>
+<p align="left">✨ I’m currently pursuing my MS Engineering Management degree at Northeastern University<br>📚 I focus in Supply Chain Engineering and Business intelligence<br>🎯 Goals: Get a full-time job offer !!<br>🎲 Fun fact: I am a certified Scuba Diver</p>
 
 ###
 
