@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A passionate Operation Research & Data Science from Taiwan</p>
+<p align="left">A passionate Operation Research & Data Science Student from Taiwan</p>
 
 ###
 
